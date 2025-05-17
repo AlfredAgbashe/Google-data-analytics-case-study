@@ -5,7 +5,7 @@ This project is a capstone case study analyzing Fitbit fitness tracker data to p
 ---
 
 ## 📁 Full Report
-[📄 Click here to view/download the full Bellabeat Case Study (PDF)](Bellabeat_Case_Study.pdf)
+[📄 Click here to view/download the full Bellabeat Case Study (PDF)](Bellabeat Case Study Report.docx)
 
 ---
 
