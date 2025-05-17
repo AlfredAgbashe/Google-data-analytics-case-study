@@ -4,11 +4,6 @@ This project is a capstone case study analyzing Fitbit fitness tracker data to p
 
 ---
 
-## 📁 Full Report
-[📄 Click here to view/download the full Bellabeat Case Study (PDF)](Bellabeat Case Study Report.docx)
-
----
-
 ## 🛠️ Tools & Technologies Used
 - **RStudio** – Data cleaning, transformation, and analysis
 - **Excel** – Data exploration and summarization
